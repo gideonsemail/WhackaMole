@@ -1,0 +1,2 @@
+# WhackaMole
+cute little game
